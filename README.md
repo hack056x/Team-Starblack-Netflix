@@ -21,21 +21,9 @@ Team-Starblack-Netflix/
 
 ├── users.txt              # Se creará automáticamente
 
-├── templates/
-
-│             ├── login.html
-
-│             ├── register.html
-
-│             └── index.html
-
-└── static/
-
-           ├── style.css
-    
-           ├── login.css
-    
-           └── register.css
+├── templates/login.html, register.html, index.html.
+│
+└── static/style.css, login.css, register.css
     
 
     
