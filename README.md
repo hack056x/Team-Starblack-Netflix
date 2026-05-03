@@ -50,15 +50,15 @@ Completa el formulario con estos valores:
 
 Campo	Valor
 
-Name	netflix-token-generator (o el nombre que quieras)
+Name : netflix-token-generator (o el nombre que quieras)
 
-Root Directory	Déjalo vacío (tu proyecto está en la raíz)
+Root Directory : Déjalo vacío (tu proyecto está en la raíz)
 
-Environment	Python 3 
+Environment : Python 3 
 
-Build Command	pip install -r requirements.txt
+Build Command : pip install -r requirements.txt
 
-Start Command	gunicorn app:app
+Start Command : gunicorn app:app
 
 
 
