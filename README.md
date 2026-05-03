@@ -14,15 +14,26 @@ Asegúrate de que tu proyecto tenga esta estructura exacta:
 netflix-token-web/
 ├── app.py                 # Tu aplicación Flask
 ├── requirements.txt       # Dependencias de Python
+
 ├── Procfile              # ¡IMPORTANTE! Comando de inicio
+
 ├── users.txt             # Se creará automáticamente
+
 ├── templates/
+
 │   ├── login.html
+
 │   ├── register.html
+
 │   └── index.html
+
 └── static/
+
     ├── style.css
+    
     ├── login.css
+    
     └── register.css
+    
 
     
