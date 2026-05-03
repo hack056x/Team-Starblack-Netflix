@@ -45,7 +45,15 @@ Si es la primera vez, autoriza a Render a acceder a tus repos
 Busca y selecciona Team-Starblack-Netflix
 
 
+3.2 Configurar el servicio
+Completa el formulario con estos valores:
 
+Campo	Valor
+Name	netflix-token-generator (o el nombre que quieras)
+Root Directory	Déjalo vacío (tu proyecto está en la raíz)
+Environment	Python 3 
+Build Command	pip install -r requirements.txt
+Start Command	gunicorn app:app
 
 
     
