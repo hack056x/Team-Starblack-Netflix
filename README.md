@@ -17,17 +17,17 @@ Team-Starblack-Netflix/
 
 ├── requirements.txt       # Dependencias de Python
 
-├── Procfile              # ¡IMPORTANTE! Comando de inicio
+├── Procfile               # ¡IMPORTANTE! Comando de inicio
 
-├── users.txt             # Se creará automáticamente
+├── users.txt              # Se creará automáticamente
 
 ├── templates/
 
-│              ├── login.html
+│             ├── login.html
 
-│              ├── register.html
+│             ├── register.html
 
-│              └── index.html
+│             └── index.html
 
 └── static/
 
