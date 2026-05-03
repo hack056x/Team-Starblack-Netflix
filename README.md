@@ -11,8 +11,10 @@ Tu proyecto funcionando localmente
 
 Asegúrate de que tu proyecto tenga esta estructura exacta:
 
-netflix-token-web/
+Team-Starblack-Netflix/
+
 ├── app.py                 # Tu aplicación Flask
+
 ├── requirements.txt       # Dependencias de Python
 
 ├── Procfile              # ¡IMPORTANTE! Comando de inicio
@@ -21,19 +23,19 @@ netflix-token-web/
 
 ├── templates/
 
-│   ├── login.html
+│              ├── login.html
 
-│   ├── register.html
+│              ├── register.html
 
-│   └── index.html
+│              └── index.html
 
 └── static/
 
-    ├── style.css
+           ├── style.css
     
-    ├── login.css
+           ├── login.css
     
-    └── register.css
+           └── register.css
     
 
     
