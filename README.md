@@ -26,4 +26,26 @@ Team-Starblack-Netflix/
 └── static/style.css, login.css, register.css
     
 
+🚀 Paso 2: Subir el código a GitHub
+
+este paso no explico porque si leer esto ya sabe como hacerlo
+
+
+🚀 Paso 3: Desplegar en Render
+
+3.1 Crear el Web Service
+Inicia sesión en render.com (usa "Sign in with GitHub")
+
+Haz clic en "New +" → "Web Service" 
+
+Conecta tu repositorio de GitHub:
+
+Si es la primera vez, autoriza a Render a acceder a tus repos
+
+Busca y selecciona Team-Starblack-Netflix
+
+
+
+
+
     
