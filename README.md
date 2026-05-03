@@ -93,7 +93,10 @@ Accede a https://TU-APP.onrender.com/login
 📞 Credenciales por defecto
 Una vez desplegado, usa estas credenciales para probar:
 
-Usuario	Contraseña
-admin	admin123
-demo	demo123
+Usuario     Contraseña
+
+admin:admin123
+
+demo:demo123
+
 Los nuevos usuarios pueden registrarse en /register.
