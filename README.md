@@ -50,7 +50,7 @@ Completa el formulario con estos valores:
 
 Campo	Valor
 
-Name : netflix-token-generator (o el nombre que quieras)
+Name : Team-Starblack-Netflix (o el nombre que quieras)
 
 Root Directory : Déjalo vacío (tu proyecto está en la raíz)
 
@@ -81,6 +81,19 @@ Haz clic en "Create Web Service" 🚀
 
 Render comenzará a construir tu aplicación. Verás los logs en tiempo real.
 
+🔍 Paso 4: Verificar el despliegue
+✅ Si todo sale bien:
+Verás Live en estado del servicio
+
+Recibirás una URL como: https://Team-Starblack-Netflix.onrender.com
+
+Accede a https://TU-APP.onrender.com/login
 
 
+📞 Credenciales por defecto
+Una vez desplegado, usa estas credenciales para probar:
 
+Usuario	Contraseña
+admin	admin123
+demo	demo123
+Los nuevos usuarios pueden registrarse en /register.
