@@ -61,5 +61,19 @@ Build Command : pip install -r requirements.txt
 Start Command : gunicorn app:app
 
 
+3.3 Seleccionar el plan gratuito
+En la sección "Instance Type":
+
+Selecciona "Free" 
+
+ℹ️ Info del plan gratuito:
+
+El servicio se duerme después de 15 minutos sin actividad 
+
+Se despierta automáticamente cuando alguien visita la URL
+
+La primera visita después de inactividad puede tardar 15-30 segundos
+
+750 horas de uso al mes (más que suficiente)
 
     
