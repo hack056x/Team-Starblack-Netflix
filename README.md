@@ -23,7 +23,6 @@ Team-Starblack-Netflix/
 
 ├── templates/login.html, register.html, index.html.
 
-│
 └── static/style.css, login.css, register.css
     
 
